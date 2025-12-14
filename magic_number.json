@@ -1,0 +1,54 @@
+{
+  "PNG": { "offset": 0, "magic": "89504E47" },
+  "JPEG": { "offset": 0, "magic": "FFD8FF" },
+  "GIF": { "offset": 0, "magic": "47494638" },
+  "BMP": { "offset": 0, "magic": "424D" },
+  "TIFF_LE": { "offset": 0, "magic": "49492A00" },
+  "TIFF_BE": { "offset": 0, "magic": "4D4D002A" },
+  "ICO": { "offset": 0, "magic": "00000100" },
+
+  "PDF": { "offset": 0, "magic": "25504446" },
+  "RTF": { "offset": 0, "magic": "7B5C727466" },
+  "PS": { "offset": 0, "magic": "25215053" },
+
+  "ZIP": { "offset": 0, "magic": "504B0304" },
+  "ZIP_EMPTY": { "offset": 0, "magic": "504B0506" },
+  "ZIP_SPANNED": { "offset": 0, "magic": "504B0708" },
+  "RAR": { "offset": 0, "magic": "52617221" },
+  "7Z": { "offset": 0, "magic": "377ABCAF271C" },
+  "GZIP": { "offset": 0, "magic": "1F8B08" },
+  "BZIP2": { "offset": 0, "magic": "425A68" },
+  "XZ": { "offset": 0, "magic": "FD377A585A00" },
+  "LZ": { "offset": 0, "magic": "4C5A4950" },
+  "TAR": { "offset": 257, "magic": "7573746172" },
+
+  "EXE": { "offset": 0, "magic": "4D5A" },
+  "ELF": { "offset": 0, "magic": "7F454C46" },
+  "MACHO_32": { "offset": 0, "magic": "FEEDFACE" },
+  "MACHO_64": { "offset": 0, "magic": "FEEDFACF" },
+  "JAVA_CLASS": { "offset": 0, "magic": "CAFEBABE" },
+
+  "APK": { "offset": 0, "magic": "504B0304" },
+  "DEX": { "offset": 0, "magic": "6465780A30333500" },
+
+  "MP3": { "offset": 0, "magic": "494433" },
+  "WAV": { "offset": 0, "magic": "52494646" },
+  "FLAC": { "offset": 0, "magic": "664C6143" },
+  "OGG": { "offset": 0, "magic": "4F676753" },
+  "AAC": { "offset": 0, "magic": "FFF1" },
+
+  "MP4": { "offset": 4, "magic": "66747970" },
+  "AVI": { "offset": 8, "magic": "41564920" },
+  "MKV": { "offset": 0, "magic": "1A45DFA3" },
+  "MOV": { "offset": 4, "magic": "66747970717420" },
+
+  "ISO9660": { "offset": 32769, "magic": "4344303031" },
+  "VMDK": { "offset": 0, "magic": "4B444D" },
+
+  "SQLITE": { "offset": 0, "magic": "53514C69746520666F726D6174203300" },
+  "MYSQL_TABLE": { "offset": 0, "magic": "FE62696E" },
+
+  "WASM": { "offset": 0, "magic": "0061736D" },
+  "SWF": { "offset": 0, "magic": "435753" },
+  "TORRENT": { "offset": 0, "magic": "64383A616E6E6F756E6365" }
+}
