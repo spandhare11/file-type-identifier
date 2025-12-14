@@ -51,3 +51,6 @@ the **actual file structure**.
 ```bash
 python3 fileidentifier.py shell.php.png
 
+⚠️ Note:
+magic_numbers.json is required for the tool to work and is included in this repository.
+Do not delete or move this file
